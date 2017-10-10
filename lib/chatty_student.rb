@@ -10,5 +10,6 @@ class ChattyStudent < Student
     super
     super
     8.times do super end
-
+    end
+    
 end
